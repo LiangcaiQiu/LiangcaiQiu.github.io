@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liangcai Qiu Personal Homepage"
+title                    : "Lc Qiu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LiangcaiQiu"
+  github           : "https://github.com/LiangcaiQiu/"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "Liangcai Qiu"
+  twitter          : "https://twitter.com/DeliaFred6"
   vine             :
   weibo            :
   xing             :
