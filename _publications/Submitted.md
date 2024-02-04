@@ -1,6 +1,5 @@
 ---
 title: "Submitted"
----
 collection: publications
 excerpt: 'Submitted to journal, still under review and improvement.'
 date: 2024-02-10
