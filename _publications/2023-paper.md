@@ -6,4 +6,4 @@ paperurl: ''
 citation: ''
 ---
 
-1. **Liangcai Qiu**, Peng Chen, Yibin Yao, Hao Chen, Fucai Tang and Mingzhu Xiong, An InSAR Tropospheric Delay Correction Method Based on a GNSS and a BPNN: More Suitable for Areas with Obvious Terrain Changes, *Sensors, 2023, 23(24): 9760*.
+1.**Liangcai Qiu**, Peng Chen, Yibin Yao, Hao Chen, Fucai Tang and Mingzhu Xiong.(2023). An InSAR Tropospheric Delay Correction Method Based on a GNSS and a BPNN: More Suitable for Areas with Obvious Terrain Changes, *Sensors, 23(24): 9760*.
