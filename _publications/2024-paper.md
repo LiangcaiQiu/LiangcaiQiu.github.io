@@ -1,14 +1,11 @@
 ---
 title: "2024"
 collection: publications
-Keywords: 'InSAR; '
-date: 2024-10-01
+date: 2024-04-19
 venue: 'Journal'
-paperurl: 'http://academicpages.github.io/files/2024_Journal.pdf'
+paperurl: ' '
 citation: ' '
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+2.Peng Chen, **Liangcai Qiu**, Yibin YAO, et al. (2024) Surface Deformation and Hazard Analysis after the 2023 Ms 6.2 Earthquake in
+Jishishan, Gansu Province Based on InSAR and Optical Imagery Interpretation. *Geomatics and Information Science of Wuhan
+University.* DOI:10.13203/J.whugis20240074. *(in chinese, Co-first author)*
