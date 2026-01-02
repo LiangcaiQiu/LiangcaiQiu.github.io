@@ -1,1 +1,1 @@
-**The InSAR group academic page (Professor Yao Yibin's team from the School of Geodesy and Geomatics, Wuhan University), Created and is maintained by Liangcai Qiu.**
+**The academic page of the InSAR Group (Prof. Yibin Yao’s team at the School of Geodesy and Geomatics, Wuhan University), created and maintained by Liangcai Qiu.**
