@@ -9,6 +9,21 @@ redirect_from:
 
 # SGGInSAR group
 
+**This is the InSAR research group of Professor Yao Yibin's research team at the School of Geodesy and Geomatics, Wuhan University. We are sharing our team's papers, tutorials, datasets/materials, and software tools in the field of InSAR with the academic community.**
+
+**We welcome students interested in SAR/InSAR to join us.**
+You could also email me to get more information.
+Liangcai Qiu (Ph.D.), liangcaiqiu@whu.edu.cn
+
+Current research focuses include:
+
+- Intelligent InSAR processing and applications
+
+- InSAR-based hazard detection and monitoring (transportation, power infrastructure, mining areas, gas fields)
+
+- Atmospheric delay mitigation for InSAR (troposphere and ionosphere)
+
+- InSAR software development, including efficient time-series processing
 
 # 个人简介
 
