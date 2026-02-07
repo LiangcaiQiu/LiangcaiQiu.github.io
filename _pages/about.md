@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<p style="text-align: justify;">**This is the InSAR research group of Professor Yao Yibin's research team at the School of Geodesy and Geomatics, Wuhan University. We are sharing the latest information on team members and research, as well as papers, tutorials, datasets/resources, and software tools related to InSAR.**</p>
+<p style="text-align: justify;"><strong>This is the InSAR research group of Professor Yao Yibin's research team at the School of Geodesy and Geomatics, Wuhan University. We are sharing the latest information on team members and research, as well as papers, tutorials, datasets/resources, and software tools related to InSAR.</strong></p>
 
 **We welcome students interested in SAR/InSAR to join us.**
 You could also email me to get more information.
